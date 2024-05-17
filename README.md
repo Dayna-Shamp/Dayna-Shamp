@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dayna.
-- 👀 I’m interested in web development,grapic design, and gaming.
+- 👀 I’m interested in web development, grapic design, and gaming.
 - 🌱 I’m currently taking courses for my front-end developer certificate. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
